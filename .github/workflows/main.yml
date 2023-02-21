@@ -1,5 +1,4 @@
-- name: generate-snake-game-from-github-contribution-g
-  uses: Platane/snk@v1.1.4
+
 name: Generate Datas
 
 on:
