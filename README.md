@@ -1,4 +1,4 @@
-###
+
 <div align="center">
 Estudante no <a href="https://cotuca.unicamp.br"> Colégio Técnico de Campinas - UNICAMP<a/>
 <div align="center">
@@ -26,4 +26,3 @@ Estudante no <a href="https://cotuca.unicamp.br"> Colégio Técnico de Campinas 
   <a href="https://www.linkedin.com/in/rafael-m-8ba8a1230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
